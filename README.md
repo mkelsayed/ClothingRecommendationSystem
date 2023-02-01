@@ -20,5 +20,3 @@ The order of the notebooks is as follows:
 4. `content_rec.ipynb`: content recommendation system
 
 5. `colab_rec.ipynb`: collaborative recommendation system (in progress)
-
-The original json data and the csv generated in the loading_preprocessing notebooks is stored in the `Data` folder and he figures made in EDA are stored in `Images` folder.
